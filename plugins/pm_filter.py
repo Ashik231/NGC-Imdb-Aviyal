@@ -829,7 +829,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),
             InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
             ],[
-            InlineKeyboardButton('𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?', callback_data='deploy')
+            InlineKeyboardButton('Information', callback_data='deploy')
             ],[
             InlineKeyboardButton('⚚ 𝙱𝙰𝙲𝙺 ⚚', callback_data='start')
         ]]
@@ -877,7 +877,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),
             InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
             ],[
-            InlineKeyboardButton('nothing here', callback_data='deploy')
+            InlineKeyboardButton('information', callback_data='deploy')
             ],[
             InlineKeyboardButton('⚚ 𝙱𝙰𝙲𝙺 ⚚', callback_data='start')
         ]]
@@ -890,7 +890,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('⍉𝘚𝘰𝘶𝘳𝘤𝘦 𝘊𝘰𝘥𝘦⍉', url='https://telegra.ph/file/1b5e3f39c6b3bb8da499b.jpg')
+            InlineKeyboardButton('⍉𝘚𝘰𝘶𝘳𝘤𝘦 𝘊𝘰𝘥𝘦⍉', url='https://telegra.ph/file/e1f1ba863c82ab35e8a15.jpg')
             ],[
             InlineKeyboardButton('⌂𝘏𝘰𝘮𝘦⌂', callback_data='start'),
             InlineKeyboardButton('✄𝘊𝘭𝘰𝘴𝘦✄', callback_data='close_data')
