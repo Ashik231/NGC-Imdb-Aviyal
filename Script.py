@@ -59,9 +59,9 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/MWUpdatez/3 https://t.me/MWUpdatez/8</code>
+<code>/batch https://t.me/Team_NGC/5 https://t.me/Team_NGC/53</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Unavailable4allTime><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
+𝘊𝘳𝘦𝘥𝘪𝘵𝘴 ›› <a href=https://t.me/Unavailable4allTime><b>𝘈𝘴𝘩𝘪𝘬 𝘔𝘩𝘥</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
@@ -78,7 +78,7 @@ Note:- Give a user details
   
 <b>✮ Deploy Tutorial ››</b> <i><b>https://youtu.be/kB9TkCs8cX0</b></i>
 
-<b>𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙷𝙴 𝙰𝙹𝙰𝚇-𝙿𝚁𝙾-𝙼𝙰𝚇 𝚁𝙴𝙿𝙾 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 <a href=https://t.me/Unavailable4allTime>𝙰𝙰𝙳𝙷𝙸</a></b>
+<b>𝘐𝘧 𝘠𝘰𝘶 𝘞𝘢𝘯𝘵 𝘕𝘎𝘊 𝘐𝘮𝘋𝘣 𝘍𝘪𝘭𝘵𝘦𝘳 𝘙𝘦𝘱𝘰 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘩𝘪𝘮 <a href=https://t.me/Unavailable4allTime>𝙰𝙰𝙳𝙷𝙸</a></b>
 
 <b>𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</b>
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
