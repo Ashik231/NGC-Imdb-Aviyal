@@ -72,10 +72,10 @@ async def start(client, message):
         ]
 
         if message.command[1] != "subscribe":
-            btn.append([InlineKeyboardButton("⎌𝘛𝘳𝘺 𝘈𝘨𝘢𝘪𝘯⎌", callback_data=f"checksub#{message.command[1]}")])
+            btn.append([InlineKeyboardButton("🔃𝘛𝘳𝘺 𝘈𝘨𝘢𝘪𝘯🔃", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**🗣 താങ്കൾ ഗ്രൂപ്പിൽ നിന്ന്‌ തിരഞ്ഞെടുത്ത മൂവി താങ്കൾക്ക് ലഭിക്കണമെങ്കിൽ താഴെ കൊടുത്തിരിക്കുന്ന ചാനലിൽ ജോയിൻ ആയ ശേഷം Try Again ഞെക്കുക🙂,**",
+            text="**🗣 താങ്കൾ ഗ്രൂപ്പിൽ നിന്ന്‌ തിരഞ്ഞെടുത്ത മൂവി താങ്കൾക്ക് ലഭിക്കണമെങ്കിൽ താഴെ കൊടുത്തിരിക്കുന്ന 𝘕𝘦𝘸 𝘔𝘰𝘷𝘪𝘦𝘴📌 ചാനലിൽ ജോയിൻ ആയ ശേഷം Try Again ഞെക്കുക🙂,**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
             )
@@ -239,7 +239,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='youtube.com/OpusTechz') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳', url='https://t.me/Unavailable4allTime') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
