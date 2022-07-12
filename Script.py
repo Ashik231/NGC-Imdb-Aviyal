@@ -74,20 +74,20 @@ Note:- Give a user details
 3. /Runs - 𝚂𝙾𝙼𝙴 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙸𝙰𝙻𝙾𝙶𝚄𝙴𝚂 
 4. /Goal or /Shoot - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰 𝙶𝙾𝙰𝙻 𝙾𝚁 𝚂𝙷𝙾𝙾𝚃
 5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
-    DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
+    DEPLOY_TXT = """<b>Information</b> 
   
 <b>𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 ››</b> <i><b>https://t.me/Unavailable4allTime</b></i>
 
 <b>𝘐𝘧 𝘠𝘰𝘶 𝘞𝘢𝘯𝘵 𝘕𝘎𝘊 𝘐𝘮𝘋𝘣 𝘍𝘪𝘭𝘵𝘦𝘳 𝘙𝘦𝘱𝘰 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘩𝘪𝘮 <a href=https://t.me/Unavailable4allTime>𝘈𝘴𝘩𝘪𝘬 𝘔𝘩𝘥</a></b>
 
-<b>𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</b>
+<b>𝘕𝘎𝘊 𝘪𝘔𝘥𝘉 𝘣𝘰𝘵𝘴 𝘢𝘳𝘦 𝘵𝘳𝘶𝘦𝘭𝘺 𝘓𝘰𝘤𝘬𝘦𝘥 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴.</b>
 𝘊𝘳𝘦𝘥𝘪𝘵𝘴 ›› <a href=https://t.me/Unavailable4allTime><b>𝘈𝘴𝘩𝘪𝘬 𝘔𝘩𝘥</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and NGC  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ᗩᒍᗩ᙭ should have admin privillage.
+1. NGV should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
