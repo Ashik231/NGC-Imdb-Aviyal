@@ -76,12 +76,12 @@ Note:- Give a user details
 5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
     DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
   
-<b>✮ Deploy Tutorial ››</b> <i><b>https://youtu.be/kB9TkCs8cX0</b></i>
+<b>𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 ››</b> <i><b>https://t.me/Unavailable4allTime</b></i>
 
-<b>𝘐𝘧 𝘠𝘰𝘶 𝘞𝘢𝘯𝘵 𝘕𝘎𝘊 𝘐𝘮𝘋𝘣 𝘍𝘪𝘭𝘵𝘦𝘳 𝘙𝘦𝘱𝘰 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘩𝘪𝘮 <a href=https://t.me/Unavailable4allTime>𝙰𝙰𝙳𝙷𝙸</a></b>
+<b>𝘐𝘧 𝘠𝘰𝘶 𝘞𝘢𝘯𝘵 𝘕𝘎𝘊 𝘐𝘮𝘋𝘣 𝘍𝘪𝘭𝘵𝘦𝘳 𝘙𝘦𝘱𝘰 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘩𝘪𝘮 <a href=https://t.me/Unavailable4allTime>𝘈𝘴𝘩𝘪𝘬 𝘔𝘩𝘥</a></b>
 
 <b>𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</b>
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
+𝘊𝘳𝘦𝘥𝘪𝘵𝘴 ›› <a href=https://t.me/Unavailable4allTime><b>𝘈𝘴𝘩𝘪𝘬 𝘔𝘩𝘥</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
@@ -106,7 +106,7 @@ Note:- Give a user details
 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/OpusTechz>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Unavailable4allTime>Ashik Mhd</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 
@@ -152,7 +152,7 @@ Helps you to know your ping 🚶🏼‍♂️
 • /ping - To get your ping.
 • /repo - Source Code.
 • /channel - Channel Details.
-• /ajax - Bot Link.
+• /ngc - Bot Link.
 <b>🏹Usage🏹 :</b>
 
 • This commands can be used in pms and groups
@@ -171,11 +171,11 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
 
-    PRIVATEBOT_TXT = """<b>𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄</b>
-<b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
-<b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
-<b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a></b>"""
+    PRIVATEBOT_TXT = """<b>എന്ത് നോക്കുന്നെ</b>
+<b>›› ഒന്നും ഇല്ല ഓടിക്കോ</b>
+<b>›› പോയില്ലേ</b>
+<b>›› അല്ലെങ്കിൽ നിക്ക്</b>
+<b>›› മുതലാളി <a href=https://t.me/Unavailable4allTime>Ashik Mhd</a></b>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
@@ -207,7 +207,7 @@ Delete A Lot Of Messages From Groups!
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/MWUpdatez)</code>
+<code>[Button Text](buttonurl:https://t.me/Unavailable4allTime)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -221,7 +221,7 @@ Delete A Lot Of Messages From Groups!
 <b>›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 <b>›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 
-<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/OpusTechz>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>"""
+<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Unavailable4allTime>Ashik Mhd</a></b>"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
@@ -338,7 +338,7 @@ This module only works for my admins
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/MWUpdatez>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Unavailable4allTime>Ashik Mhd</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
@@ -407,11 +407,11 @@ To Get Sticker ID
       
     START_KICK = """🚮 Removing Inactive Members This May Take A While..."""
       
-    ADMIN_REQUIRED = """❗<b>എന്നെ Admin ആക്കത്ത സ്ഥലത്ത് ഞാൻ നിക്കില്ല പോകുവാ Bii..Add Me Again with all admin rights.</b>"""
+    ADMIN_REQUIRED = """❗<b>എന്നെ Admin ആകടെ കുറച്ചു ബഹുമാനം ഒക്കെ ആകാം,Any Way Bye bye..Add Me Again with all admin rights.</b>"""
       
     DKICK = """✔️ Kicked {} Deleted Accounts Successfully."""
       
-    FETCHING_INFO = """<b>ഇപ്പൊ എല്ലാം അടിച്ചുമാറ്റി തരാം...</b>"""
+    FETCHING_INFO = """<b>ഇപ്പൊ ശെരിയാകിതരാം...</b>"""
       
     STATUS = """{}\n<b>Chat Member Status</b>**\n\n```<i>Recently``` - {}\n```Within Week``` - {}\n```Within Month``` - {}\n```Long Time Ago``` - {}\nDeleted Account - {}\nBot - {}\nUnCached - {}</i>
 """
