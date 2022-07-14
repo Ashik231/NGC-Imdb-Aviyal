@@ -43,7 +43,7 @@ class Bot(Client):
 
     async def stop(self, *args):
         await super().stop()
-        logging.info("Restarting NGC-Imdb-Aviyal")
+        logging.info("Restarting Ajax")
 
 
 app = Bot()
