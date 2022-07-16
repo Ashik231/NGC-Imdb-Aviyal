@@ -497,7 +497,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ident, file_id = query.data.split("#")
         files_ = await get_file_details(file_id)
         if not files_:
-            return await query.answer('Button Not Working,Go To Group and try again 🙂...')
+            return await query.answer('𝘉𝘶𝘵𝘵𝘰𝘯 𝘯𝘰𝘵 𝘸𝘰𝘳𝘬𝘪𝘯𝘨!. 𝘗𝘭𝘦𝘢𝘴𝘦 𝘎𝘰 𝘵𝘰 𝘨𝘳𝘰𝘶𝘱 𝘢𝘯𝘥 𝘛𝘳𝘺 𝘈𝘨𝘢𝘪𝘯🙂...')
         files = files_[0]
         title = files.file_name
         size = get_size(files.file_size)
