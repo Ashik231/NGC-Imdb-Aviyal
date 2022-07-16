@@ -76,9 +76,7 @@ async def start(client, message):
         await client.send_message(
             chat_id=message.from_user.id,
             text="**🗣 താങ്കൾ ഗ്രൂപ്പിൽ നിന്ന്‌ തിരഞ്ഞെടുത്ത മൂവി താങ്കൾക്ക് ലഭിക്കണമെങ്കിൽ താഴെ കൊടുത്തിരിക്കുന്ന 𝘕𝘦𝘸 𝘔𝘰𝘷𝘪𝘦𝘴📌 ചാനലിൽ ജോയിൻ ആയ ശേഷം Try Again ഞെക്കുക🙂...**",
-            reply_markup=InlineKeyboardMarkup(btn),
-            parse_mode="markdown"
-            )
+            disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(btn), parse_mode="markdown" )
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
