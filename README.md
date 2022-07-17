@@ -1,25 +1,27 @@
 Ngc Official Bot... Fully Updated...
-- [x] Auto Filter
-- [x] Manual Filter
-- [x] IMDB
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB search
-- [x] Inline Search
-- [x] Random pics
-- [x] ids and User info 
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-- [x] Spelling Check Feature
-- [x] Youtube Video , Song , Thumbnail Download.
-- [x] Image Edit.
-- [x] Google Translator.
-- [x] Telegraph
-- [x] Entertainment
-- [x] Sticker ID Generator
-- [x] COVID Information
-- [x] File Store
-- [X] Image Editor
+
+There are So many Features on my Brain...
+
+- [📌] Auto Filter
+- [📌] Manual Filter
+- [📌] IMDB
+- [📌] Admin Commands
+- [📌] Broadcast
+- [📌] Index
+- [📌] IMDB search
+- [📌] Inline Search
+- [📌] Random pics
+- [📌] ids and User info 
+- [📌] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
+- [📌] Spelling Check Feature
+- [📌] Youtube Video , Song , Thumbnail Download.
+- [📌] Image Edit.
+- [📌] Google Translator.
+- [📌] Telegraph
+- [📌] Entertainment
+- [📌] Sticker ID Generator
+- [📌] File Store
+- [📌] Image Editor
 
 ## Variables
 
@@ -94,4 +96,4 @@ python3 bot.py
 * /broadcast - to broadcast a message to all Ajax users
 ```
 
-Bot Developer is a psycho path
+This Bot have So many Contributers and It's the edited Version 
