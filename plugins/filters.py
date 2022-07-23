@@ -29,7 +29,7 @@ async def addfilter(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("Make sure I'm present in your group!!", quote=True)
+                await message.reply_text("Make sure I'm present in your group!...", quote=True)
                 return
         else:
             await message.reply_text("I'm not connected to any groups!", quote=True)
