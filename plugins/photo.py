@@ -21,7 +21,7 @@ async def photo(client: Client, message: Message):
                         InlineKeyboardButton(text="𝖡𝗈𝗋𝖽𝖾𝗋", callback_data="border"),
                     ],
                     [
-                        InlineKeyboardButton(text="𝖲𝗍𝗂𝖼𝗄𝖾𝗋", callback_data="stick"),
+                        InlineKeyboardButton(text="𝖲𝗍𝗂𝖼𝗄𝖾𝗋s", callback_data="stick"),
                         InlineKeyboardButton(text="𝖱𝗈𝗍𝖺𝗍𝖾", callback_data="rotate"),
                         InlineKeyboardButton(text="𝖢𝗈𝗇𝗍𝗋𝖺𝗌𝗍", callback_data="contrast"),
                     ],
