@@ -245,7 +245,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('ഈ മൂവി എന്റെ ഡാറ്റാബേസിൽ ലഭ്യമല്ല,⇘ᴘᴏꜱꜱɪʙʟᴇ ᴄᴀᴜꜱᴇꜱ⇙ 1,𝘐𝘵 𝘮𝘢𝘺 𝘣𝘦 𝘢 𝘮𝘰𝘷𝘪𝘦 𝘵𝘩𝘢𝘵 𝘪𝘴 𝘯𝘰𝘵 𝘦𝘷𝘦𝘯 𝘳𝘦𝘭𝘦𝘢𝘴𝘦𝘥. 2,𝘛𝘩𝘦 𝘮𝘰𝘷𝘪𝘦 𝘩𝘢𝘴 𝘣𝘦𝘦𝘯 𝘰𝘯𝘭𝘺 𝘳𝘦𝘭𝘦𝘢𝘴𝘦𝘥 𝘪𝘯 𝘵𝘩𝘦𝘢𝘵𝘦𝘳𝘴 𝘢𝘯𝘥 𝘯𝘰𝘵 𝘪𝘯 𝘖𝘛𝘛 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮𝘴. 3,𝘙𝘢𝘳𝘦 𝘰𝘳 𝘝𝘦𝘳𝘺 𝘖𝘭𝘥 𝘔𝘰𝘷𝘪𝘦𝘴.𝘐𝘧 𝘠𝘰𝘶 𝘞𝘢𝘯𝘵 𝘌𝘹𝘢𝘤𝘵 𝘳𝘦𝘢𝘴𝘰𝘯 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘖𝘸𝘯𝘦𝘳⇝@Unavailable4allTime')
+            k = await query.message.edit('<b>ഈ മൂവി എന്റെ ഡാറ്റാബേസിൽ ലഭ്യമല്ല,..\n<b>══════◄••❀••►═════\n<b>𝙋𝙤𝙨𝙨𝙞𝙗𝙡𝙚 𝘾𝙖𝙪𝙨𝙚𝙨;\n<b>●𝘐𝘵 𝘮𝘢𝘺 𝘣𝘦 𝘢 𝘮𝘰𝘷𝘪𝘦 𝘵𝘩𝘢𝘵 𝘪𝘴 𝘯𝘰𝘵 𝘦𝘷𝘦𝘯 𝘳𝘦𝘭𝘦𝘢𝘴𝘦𝘥,\n<b>●𝘛𝘩𝘦 𝘮𝘰𝘷𝘪𝘦 𝘩𝘢𝘴 𝘣𝘦𝘦𝘯 𝘰𝘯𝘭𝘺 𝘳𝘦𝘭𝘦𝘢𝘴𝘦𝘥 𝘪𝘯 𝘵𝘩𝘦𝘢𝘵𝘦𝘳𝘴 𝘢𝘯𝘥 𝘯𝘰𝘵 𝘪𝘯 𝘖𝘛𝘛 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮𝘴,\n<b>●𝘙𝘢𝘳𝘦 𝘰𝘳 𝘝𝘦𝘳𝘺 𝘖𝘭𝘥 𝘔𝘰𝘷𝘪𝘦𝘴,\n\n<b>𝘐𝘧 𝘠𝘰𝘶 𝘞𝘢𝘯𝘵 𝘌𝘹𝘢𝘤𝘵 𝘳𝘦𝘢𝘴𝘰𝘯 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘖𝘸𝘯𝘦𝘳 -- @Unavailable4allTime<b>')
             await asyncio.sleep(10)
             await k.delete()
 
