@@ -53,7 +53,7 @@ async def addconnection(client,message):
             addcon = await add_connection(str(group_id), str(userid))
             if addcon:
                 await message.reply_text(
-                    f"𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚃𝙾 **{title}**\n𝙽𝙾𝚆 𝚈𝙾𝚄 𝙲𝙰𝙽 𝙼𝙰𝙽𝙰𝙶𝙴 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴../",
+                    f"Connection successful to **{title}**\nഇനി ഞാൻ ഏറ്റു../",
                     quote=True,
                     parse_mode="md"
                 )
