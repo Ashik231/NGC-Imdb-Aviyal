@@ -26,16 +26,16 @@ There are So many Features on my Brain...
 ## Variables
 
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
-* `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com).
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this 
-* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+* `BOT_TOKEN`: https://github.com/Ashik231/NGC-Imdb-Aviyal
+* `API_ID`: 4878337
+* `API_HASH`: 50fcfb6bfad2fd47040a42eb6a1f07fc
+* `CHANNELS`: -1001578596144
+* `ADMINS`: -1001578596144
+* `DATABASE_URI`: mongodb+srv://Lastandfinal:Lastandfinal@cluster0.u27qu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+* `DATABASE_NAME`: Lastandfinal
+* `LOG_CHANNEL` : -1001609607456
 * `SUPPORT_CHAT` : @Unavailable4allTime
-* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
+* `PICS`: https://te.legra.ph/file/947ffdff12fc600c17e26.jpg
 ### Optional Variables
 
 ## Deploy
