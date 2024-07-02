@@ -26,16 +26,7 @@ There are So many Features on my Brain...
 ## Variables
 
 ### Required Variables
-* `BOT_TOKEN`: https://github.com/Ashik231/NGC-Imdb-Aviyal
-* `API_ID`: 4878337
-* `API_HASH`: 50fcfb6bfad2fd47040a42eb6a1f07fc
-* `CHANNELS`: -1001578596144
-* `ADMINS`: -1001578596144
-* `DATABASE_URI`: mongodb+srv://Lastandfinal:Lastandfinal@cluster0.u27qu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-* `DATABASE_NAME`: Lastandfinal
-* `LOG_CHANNEL` : -1001609607456
-* `SUPPORT_CHAT` : @Unavailable4allTime
-* `PICS`: https://te.legra.ph/file/947ffdff12fc600c17e26.jpg
+
 ### Optional Variables
 
 ## Deploy
